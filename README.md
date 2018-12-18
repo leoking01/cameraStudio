@@ -2,5 +2,10 @@
 cameraStudio
 
 
-https://github.com/leoking01/cameraStudio/blob/master/shot.png
+
+<img src="shot.png" width = "40%"/>
+
+
+
+
 
