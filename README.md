@@ -1,2 +1,6 @@
 # cameraStudio
 cameraStudio
+./shot.png
+
+
+
